@@ -1,0 +1,14 @@
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\bin\Debug\Sorter.exe.config
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\bin\Debug\Sorter.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\bin\Debug\Sorter.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.Form1.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.exe
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.pdb
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.formColors.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.formLetters.resources
+H:\Students_Folder\Grant Malone\Coding Assets\Visual Studio Assets\Sorter\obj\Debug\Sorter.formNum.resources
